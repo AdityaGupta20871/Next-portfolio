@@ -17,11 +17,27 @@ export const items = {
     },
     {
       id: 3,
-      title: "Strong Together Charity",
+      title: "Smart Home App",
       desc: "This image showcases a smart home app that I built during the HACKMAIT hackathon. The app, designed with a sleek black and white theme, offers control over various home devices such as lights, TV, and speakers. It also features a chatbot for assistance and provides a detailed breakdown of power usage by device",
       image:
         "/smarthome.png",
       link:"https://www.figma.com/file/Lyg6NHBv7Oc3L5xeG8dTgc/UXPLORE?type=design&node-id=0-1&mode=design&t=AN2WFclfhOhUBL0H-0"
+    },
+    {
+      id: 4,
+      title: "Life n colors",
+      desc: "Redesigned the website's Product Page of Life n colors given as an assignment for applying to an internship",
+      image:
+        "/Lifencolors.png",
+      link:"https://www.figma.com/file/xpYU0cTSw9YIF01eUElaMA/Life-n-colors?type=design&node-id=0%3A1&mode=design&t=0WbRSNbKLjaNhgVH-1"
+    },
+    {
+      id: 4,
+      title: "Eduminatti",
+      desc: "Redesigned the Eduminatti website's Mobile design given as an assignment for applying to an internship",
+      image:
+        "/edumin.jpg",
+      link:"https://www.figma.com/file/4g1QRgVBdkW7xDGx7Hy8to/Top-5-Schools-in-Delhi?type=design&node-id=6%3A149&mode=design&t=NyJUtTUlKRPIcQwZ-1"
     }
   ],
   websites: [
