@@ -2,10 +2,10 @@ export const items = {
   Designs: [
     {
       id: 1,
-      title: "Celestial Spotify",
-      desc: "Explore my innovative celestial-themed music streaming web app design, inspired by Spotify, created during my hackathon at IGDTUW. Combining cutting-edge design techniques with a cosmic aesthetic, this project showcases my skills in UX/UI design, visual branding, interactive prototyping, and iterative development.",
-      image:"/p2.png",
-      link:"https://www.figma.com/file/vMpRkMv2zb64hejQOmvWLf/Celestical?type=design&node-id=0-1&mode=design&t=sI0PVs2dNCMG25OV-0"
+      title: "CryptoFix",
+      desc: "CryptoFix is a ad agency in crypto industry.Advertisers can join cryptofix and create ad campaigns that will be placedon variety of cryptocurrency websites and apps.The whole project is built using Figma",
+      image:"/CryptoFix.jpg",
+      link:"https://www.figma.com/design/7H8aNJtTm3BcN1rL4hNvVg/CryptoFix?node-id=0-1&t=YwLRB3VURsqxjoHd-1"
     },
     {
       id: 2,
@@ -32,7 +32,7 @@ export const items = {
       link:"https://www.figma.com/file/xpYU0cTSw9YIF01eUElaMA/Life-n-colors?type=design&node-id=0%3A1&mode=design&t=0WbRSNbKLjaNhgVH-1"
     },
     {
-      id: 4,
+      id: 5,
       title: "Eduminatti",
       desc: "Redesigned the Eduminatti website's Mobile design given as an assignment for applying to an internship",
       image:
@@ -51,19 +51,35 @@ export const items = {
     },
     {
       id: 2,
-      title: "Creative Prtfolio",
-      desc: "Discover MyPortfolio: A dynamic web application built with NEXT.js, CSS, Prisma, and MongoDB. Showcase your skills and achievements beautifully while maintaining easy content management and scalability.",
+      title: "FuelFree",
+      desc: "FuelFree is a graphical user interface (GUI) application designed to promote eco-friendly activities and raise awareness about carbon emissions. It provides users with tools to explore data, track their carbon footprint, engage in environmentally friendly practices, and interact with a chatbot for recommendations.",
       image:
-        "/Portfolio.png",
-        link:"https://pokedesk-blush.vercel.app",
+        "/fuelfree.png",
+      link:"https://github.com/AdityaGupta20871/FuelFree",
     },
     {
       id: 3,
+      title: "GymBuddy",
+      desc: " Designed a Full stack Website sending AI generated whatsapp message about your diet plan and Exercise routine and recording on dashboard",
+      image:
+        "/gymbud.png",
+        link:"https://github.com/AdityaGupta20871/GymBud",
+    },
+    {
+      id: 4,
       title: "Pokedesk",
       desc: "Explore the Pokedesk: A NEXT.js project powered by Shadcn and the PokeAPI. Dive into the vibrant world of Pokémon, with an interactive, data-rich Pokédex at your fingertips.",
       image:
         "/pokedesk.png",
       link:"https://pokedesk-blush.vercel.app",
+    },
+    {
+      id: 5,
+      title: "Taguette",
+      desc: "Taguette is a web application that allows users to upload documents and highlighting text in document or create notes witn tags or update delete or modify them according to user requirements",
+      image:
+        "/taguette.png",
+      link:"https://github.com/AdityaGupta20871/taguette",
     }
   ],
 };
