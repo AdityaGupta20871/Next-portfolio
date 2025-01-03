@@ -4,7 +4,7 @@ export const items = {
       id: 1,
       title: "CryptoFix",
       desc: "CryptoFix is a ad agency in crypto industry.Advertisers can join cryptofix and create ad campaigns that will be placedon variety of cryptocurrency websites and apps.The whole project is built using Figma",
-      image:"/CryptoFix.jpg",
+      image:"/Cryptofix.jpg",
       link:"https://www.figma.com/design/7H8aNJtTm3BcN1rL4hNvVg/CryptoFix?node-id=0-1&t=YwLRB3VURsqxjoHd-1"
     },
     {
